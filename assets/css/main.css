@@ -2022,3 +2022,17 @@ input, select, textarea {
 			}
 
 	}
+
+/* CUSTOM */
+.image_center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.profile_picture {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+	border-radius: 50%;
+}
