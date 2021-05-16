@@ -2036,3 +2036,9 @@ input, select, textarea {
 	height: auto;
 	border-radius: 50%;
 }
+
+.about_picture {
+	width: 100%;
+	max-width: 750px;
+	height: auto;
+}
